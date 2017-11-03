@@ -23,9 +23,9 @@ By default Foreground mode is set. Use following keys to interact with window:
 
 Python command:
 
-> python main.py [original image Path]
+> python segmentationVideo.py [original image Path]
 
-Refer [Real Time Segmentation](https://bitbucket.org/narniaspartan1/cvhw4/src/c1207f98b91241a87ba0e5f6c4c0a0bf17d21256/bonus.mov?at=master&fileviewer=file-view-default) to see the working example.
+Refer [Real Time Segmentation](https://github.com/geekyspartan/Image-segmentation-using-SLIC-superpixels-and-graph-cuts/blob/master/Real%20Time%20segmentation.mov) to see the working example.
 
 # Team
 [Renu Rani](https://github.com/techiepanda), [Anurag Arora](https://github.com/geekyspartan)
